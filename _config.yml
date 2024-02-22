@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dingtian Cai / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://mmistakes.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dxc1112.github.io/dingtiancai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,18 +21,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "photo.png"
   name             : "Dingtian Cai"
   pronouns         : # example: "she/her"  
-  bio              : "Biostatistician"
-  location         : "Hussman Institute for Human Genomics"
+  bio              : "Biostatistician, Hussman Institute for Human Genomics"
+  location         : "Miami,Florida"
   employer         : "University of Miami"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dxc1112@miami.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
